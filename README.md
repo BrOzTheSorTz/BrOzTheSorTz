@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am José Pablo and I would love that you'd know me better:
+- 🔭 I’m currently studying Computer Science. However I love reading books and doing sports.
+- 🌱 I’m currently learning about Artifical Intelligence.
+- 👯 Any idea that you have in your head tell me for create it.
+- 💬 Ask me about tech, personal development and sports.
+- 📫 How to reach me: jpst0002@red.ujaen.es
+
 
 <!--
 **BrOzTheSorTz/BrOzTheSorTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
